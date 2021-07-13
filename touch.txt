@@ -1,1 +1,4 @@
 hello
+This file contains details of push and pull.
+now i m going to check it.
+all the commits.
